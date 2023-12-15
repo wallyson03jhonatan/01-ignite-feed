@@ -1,0 +1,20 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+}
+
+.header img {
+    height: 2rem;
+}
+
+.header strong {
+    font-size: 1.25rem;
+    display: flex;
+    align-items: center;
+    padding-left: .5rem;
+}
+
+
+
